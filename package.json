@@ -1,0 +1,16 @@
+{
+  "name": "com.helvest.easing",
+  "version": "1.0.0",
+  "displayName": "Easing",
+  "keywords": [
+    "Service",
+    "Locator",
+    "Singleton"
+  ],
+  "author": {
+    "name": "Pedro Dominic\u00e9 (Helvest)",
+    "url": "https://twitter.com/HelvestEpic"
+  },
+  "description": "Static tweening functions",
+  "type": "tool"
+}
