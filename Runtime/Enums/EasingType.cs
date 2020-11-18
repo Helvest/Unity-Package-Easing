@@ -1,4 +1,4 @@
-﻿namespace Easing
+﻿namespace SimpleEasing
 {
 	/// <summary>
 	/// Liste of possible type of ease

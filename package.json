@@ -1,11 +1,11 @@
 {
   "name": "com.helvest.easing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Easing",
   "keywords": [
-    "Service",
-    "Locator",
-    "Singleton"
+    "Easing",
+    "Tween",
+	"Animation"
   ],
   "author": {
     "name": "Pedro Dominic\u00e9 (Helvest)",

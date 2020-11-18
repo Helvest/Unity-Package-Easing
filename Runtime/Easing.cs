@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Easing
+namespace SimpleEasing
 {
 
 	/// <summary>
