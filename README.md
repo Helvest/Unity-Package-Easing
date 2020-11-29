@@ -1,3 +1,3 @@
-# Unity Package: Easing
+# Unity Package: Tween Methods
 
-Static tweening functions
+A list of static tweening methods for Unity types

@@ -1,16 +1,16 @@
 {
-  "name": "com.helvest.easing",
-  "version": "1.0.1",
-  "displayName": "Easing",
+  "name": "com.helvest.tweenmethods",
+  "version": "2.0.0",
+  "displayName": "TweenMethods",
   "keywords": [
     "Easing",
     "Tween",
-	"Animation"
+    "Animation"
   ],
   "author": {
     "name": "Pedro Dominic\u00e9 (Helvest)",
     "url": "https://twitter.com/HelvestEpic"
   },
-  "description": "Static tweening functions",
+  "description": "A list of static tweening methods for Unity types",
   "type": "tool"
 }

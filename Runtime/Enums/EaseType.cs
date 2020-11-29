@@ -1,9 +1,9 @@
-﻿namespace SimpleEasing
+﻿namespace SimpleTweening
 {
 	/// <summary>
 	/// Liste of possible type of ease
 	/// </summary>
-	public enum EasingType
+	public enum EaseType : byte
 	{
 		Step,
 		Linear,
