@@ -46,7 +46,7 @@ namespace SimpleTweening
 		}
 	}
 
-	public  class ExpoParam : IEasingParam
+	public class ExpoParam : IEasingParam
 	{
 		public float EaseIn(float t, float expo)
 		{
